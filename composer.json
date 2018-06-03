@@ -1,0 +1,11 @@
+{
+    "name": "vmsrg/sf14helpers",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3"
+    },
+    "autoload": {
+        "psr-0": {"": "/"}
+    }
+}
